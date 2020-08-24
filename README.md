@@ -3,4 +3,4 @@ CaseLaw Access Project (CAP) - Code for presentation at Harvard Law School about
 
 Using LSA to measure textual coherence of caselaw over time.
 
-[Link to presentation](https://www.youtube.com/watch?v=j6tOckXKMHM)
+[Link to youtube presentation](https://www.youtube.com/watch?v=j6tOckXKMHM)
